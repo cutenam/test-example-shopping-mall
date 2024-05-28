@@ -1,8 +1,8 @@
 import { screen } from '@testing-library/react';
 import React from 'react';
 
-import TextField from '@/components/TextField';
-import render from '@/utils/test/render';
+import TextField from '@/components/TextField.jsx';
+import render from '@/utils/test/render.jsx';
 
 /**
  * 2.4. React Testing Library와 컴포넌트 테스트
